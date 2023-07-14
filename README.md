@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-**SnowleopardXI/SnowleopardXI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🔭 I’m Micaiah, currently studying on TUT
 
 🌱 I’m currently learning cybersecurity
